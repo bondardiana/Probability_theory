@@ -5,7 +5,7 @@ Visualization for the Probability theory and Mathematical statistics course. Mad
 https://bondardiana.shinyapps.io/probability_theory/
 
 # Chapters:
-Basics of probability \n
+Basics of probability \\n
 Discrete random variable
 Variance and moments
 Continuous random variable
